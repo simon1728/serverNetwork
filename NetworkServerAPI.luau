@@ -1,4 +1,6 @@
---[[ Network:FireClient(client, name, ...)
+--[[ 
+
+Network:FireClient(client, name, ...)
 	Network:FireAllClients(name, ...)
 	Network:FireOtherClients(ignoreclient, name, ...)
 	Network:FireOtherClientsWithinDistance(ignoreclient, distance, name, ...)
